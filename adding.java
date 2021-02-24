@@ -1,4 +1,4 @@
-class AddTwoNumbers {
+class Adding {
 
    public static void main(String[] args) {
         
